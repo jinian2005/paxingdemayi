@@ -1,5 +1,3 @@
-# paxingdemayi
-爬行的蚂蚁
 #include<stdio.h>
 int main()
 {
